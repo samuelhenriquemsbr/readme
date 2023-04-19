@@ -4,7 +4,7 @@
 ### About me 
 
 - 🇧🇷 Sou brasileiro 
-- 👨‍🎓 Entusiata e estudante na área de programação
+- 👨‍🎓 Estudante em UFMS no curso de Ciência da Computação
 - 🖥️ Atualmente focado em Python
 
 
@@ -41,7 +41,7 @@
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:samuelhrq33@gmail.com">
+    <a href="mailto:samuel.henrique@ufms.br">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
